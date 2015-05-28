@@ -1,0 +1,74 @@
+[
+    "index.md",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    [
+        "cloudant.md",
+        "couchdb.md"
+    ],
+    [
+        {
+            "filename": "http-all-the-things.md",
+            "attr": {
+                "data-background": "images/all-the-things.jpg"
+            }
+        },
+        {
+            "filename": "replication.md",
+            "attr": {
+                "data-background": "images/replication.gif"
+            }
+        },
+        {
+            "filename": "views.md",
+            "attr": {
+                "data-background": "images/lookup.gif"
+            }
+        },
+        {
+            "filename": "search.md",
+            "attr": {
+                "data-background": "images/search.gif"
+            }
+        },
+        {
+            "filename": "geo.md",
+            "attr": {
+                "data-background": "images/geo.gif"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "what-you-can-do.md",
+            "attr": {
+                "data-background": "images/do-it.gif"
+            }
+        },
+        {
+            "filename": "offline.md",
+            "attr": {
+                "data-background": "images/offline.gif"
+            }
+        },
+        {
+            "filename": "mind-blown.md",
+            "attr": {
+                "data-background": "images/mind-blown.gif"
+            }
+        },
+        "pouchdb.md"
+    ],
+    "resources.md",
+    "fin.md"
+]
