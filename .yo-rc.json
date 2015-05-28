@@ -1,0 +1,16 @@
+{
+  "generator-cloudant-talk": {
+    "presentationTitle": "Hitting the Couch",
+    "presentationSubTitle": "CouchDB at MadridJS",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "cloudant",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "hitting-the-couch-madridjd",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "Developer Advocate",
+    "authorEmail": "mike.elsmore@cloudant.com"
+  }
+}
